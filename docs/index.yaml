@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: 2018-02-04T22:48:03.025093913-08:00
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-04T23:01:08.037285009-08:00
+    description: A Helm chart for Kubernetes
+    digest: f17165d99a2c9d8aa49153964b6ff2a810b368bc4a4ac12929cd45657a802edc
+    name: notificationchart
+    urls:
+    - https://MFRIndia.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-04T23:01:08.036832297-08:00
